@@ -18,6 +18,7 @@ Retail businesses often face challenges in:
 This leads to inefficient planning, missed opportunities, and suboptimal decision-making.
 
 🎯 Project Objectives
+
    * Analyze overall sales performance using key KPIs
    * Identify best-selling brands and mobile models
    * Understand monthly and yearly sales trends
@@ -25,16 +26,19 @@ This leads to inefficient planning, missed opportunities, and suboptimal decisio
    * Provide actionable insights for business growth
 
 🛠️ Tech Stack
+
    * Power BI Desktop – Dashboard development & visualization
    * Power Query – Data cleaning & transformation
    * DAX – KPI calculations & time intelligence
    * Data Modeling – Relationship building (Star Schema)
 
 📂 Dataset Information
+
    * Dataset: Mobile Sales Data
    * Type: Transaction-level data
      
 🔑 Key Fields
+
    * Transaction ID
    * Date
    * Mobile Model
@@ -48,10 +52,12 @@ This leads to inefficient planning, missed opportunities, and suboptimal decisio
    * Customer Rating
 
 📊 Key KPIs
+
    * 💰 Total Revenue: 769M+
    * 📦 Total Quantity Sold: 19K+
    * 🧾 Total Transactions: 4K+
    * 📈 Average Price: 40K+
+     
 
 🧮 Key DAX Measures
 
@@ -128,3 +134,48 @@ DIVIDE(
    * Majority of ratings fall under "Good" category
    * Indicates overall positive customer satisfaction
 
+⭐ Project Highlights
+
+   * Built an interactive dashboard with multiple analytical views
+   * Implemented advanced DAX measures for time intelligence
+   * Designed a custom calendar table for accurate analysis
+   * Enabled dynamic filtering and drill-down features
+   * Delivered business-focused insights from raw data
+
+🚀 Recommendations
+
+   * Focus marketing on top-performing brands and models
+   * Expand presence in high-revenue cities
+   * Promote digital payment offers to increase conversions
+   * Improve strategies for low-performing products
+   * Leverage seasonal trends for targeted campaigns
+
+📊 Business Impact
+
+   * Improved visibility into sales and customer behavior
+   * Enabled better regional and product-level decision-making
+   * Supported strategic planning using time-based insights
+   * Identified key revenue drivers and growth opportunities
+     
+🎯 Use Cases
+
+   * Retail Businesses: Sales optimization
+   * Marketing Teams: Customer targeting
+   * Operations Teams: Demand planning
+   * Data Analysts: End-to-end analytics project
+
+📸 Dashboard Preview
+🔹 Main Dashboard
+
+Link :
+
+
+
+🔹 MTD Report
+
+LINK :
+
+
+🔹 YoY Analysis
+
+Link : 
