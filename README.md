@@ -58,8 +58,10 @@ This leads to inefficient planning, missed opportunities, and suboptimal decisio
    * 🧾 Total Transactions: 4K+
    * 📈 Average Price: 40K+
      
+     
 
 🧮 Key DAX Measures
+
 
 🔹 Total Revenue
 
