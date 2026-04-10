@@ -167,7 +167,7 @@ DIVIDE(
 📸 Dashboard Preview
 🔹 Main Dashboard
 
-Link :
+Link : https://github.com/AnmolChoudhary506/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard/Mobile%20sales%20dashboard.png
 
 
 
