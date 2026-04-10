@@ -165,6 +165,7 @@ DIVIDE(
    * Data Analysts: End-to-end analytics project
 
 📸 Dashboard Preview
+
 🔹 Main Dashboard
 
 Link : https://github.com/AnmolChoudhary506/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard/Mobile%20sales%20dashboard.png
@@ -176,6 +177,6 @@ Link : https://github.com/AnmolChoudhary506/Mobile-Sales-Dashboard/blob/main/Mob
 LINK : https://github.com/AnmolChoudhary506/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard/MTD%20Report%20Image.png
 
 
-🔹 YoY Analysis
+🔹 Same Period Last Year Analysis
 
-Link : 
+Link : https://github.com/AnmolChoudhary506/Mobile-Sales-Dashboard/blob/main/Mobile%20Sales%20Dashboard/Same%20Period%20Last%20Year%20Report%20image.png
